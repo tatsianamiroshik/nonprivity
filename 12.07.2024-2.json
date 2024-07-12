@@ -1,0 +1,26 @@
+{
+    "name": "Cynthia Ballard",
+    "age": 68,
+    "address": {
+        "street": "Walter Garden",
+        "city": "South Ralphport",
+        "state": "Ohio",
+        "zip": "60650"
+    },
+    "contact": {
+        "phone": "723.397.4198",
+        "servicePhone": "800083117"
+    },
+    "birthday": "1956-29-05",
+    "ip": "187.79.202.133",
+    "foo": "bar",
+    "profile": {
+        "about": "High actually common may both win into. Local remember physical close.\nResearch respond wind consumer politics out. Successful any magazine finally lay. Executive girl by position often spring.",
+        "bio": "All degree writer audience draw second. Store decision hard describe act beat."
+    },
+    "apiKey": "fa56974bf8257aee9e9732afd673c8eb2b0aef2072a4f53611f6b4257dd59161",
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
