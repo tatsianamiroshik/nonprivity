@@ -1,0 +1,26 @@
+{
+    "name": "Henry Mcknight",
+    "age": 17,
+    "address": {
+        "street": "Scott Groves",
+        "city": "Rodriguezfurt",
+        "state": "Oklahoma",
+        "zip": "79769"
+    },
+    "contact": {
+        "phone": "694.755.1430",
+        "servicePhone": "800851461"
+    },
+    "birthday": "2007-24-03",
+    "ip": "70.215.151.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Section step national a another three. Range song various subject cell never only five.\nMinute international result free them remain two. So both social little. Near plant event add effort I.",
+        "bio": "Stand lay level listen serve as avoid. Popular speech clearly within every."
+    },
+    "apiKey": "e9bade946f2fa4b972e80124c7820892c1d538a5d4dd8fe5217d868ef72ce66c",
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
