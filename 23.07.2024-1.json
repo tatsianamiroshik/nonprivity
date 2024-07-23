@@ -1,0 +1,26 @@
+{
+    "name": "Peter Campbell",
+    "age": 107,
+    "address": {
+        "street": "Gordon Branch",
+        "city": "Atkinsonchester",
+        "state": "Massachusetts",
+        "zip": "12102"
+    },
+    "contact": {
+        "phone": "+1-570-750-4679x914",
+        "servicePhone": "800437815"
+    },
+    "birthday": "1917-02-12",
+    "ip": "98.17.183.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Dinner almost serve develop southern town summer agreement. Security almost wall official.\nArticle sell debate beyond. Suffer PM letter. Something recently read skill goal.",
+        "bio": "Treatment well central value fund official size. Own answer different strong argue thought down. Hit investment provide step person nothing. Order page three truth thing."
+    },
+    "apiKey": "c3427adc54bbe784f8ad2055e88f38a2d75723aa005a7c33693a52e7967df555",
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
