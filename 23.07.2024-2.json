@@ -1,0 +1,26 @@
+{
+    "name": "Jasmine Weber",
+    "age": 47,
+    "address": {
+        "street": "May Ranch",
+        "city": "Osbornechester",
+        "state": "Wisconsin",
+        "zip": "57435"
+    },
+    "contact": {
+        "phone": "(549)892-2636",
+        "servicePhone": "800169908"
+    },
+    "birthday": "1977-16-04",
+    "ip": "184.227.185.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Successful policy growth do example discussion. Bank drug seek between window discover wish.\nJob give seat. The size represent. Despite blue would least half nice billion.",
+        "bio": "Phone pressure thought community. Kitchen skill early try news. Analysis positive result put family then consumer friend."
+    },
+    "apiKey": "b077df2ba74df598e640ec6d1e84ac1b72277d8449fd87688eb827f9001bdc7a",
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
