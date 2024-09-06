@@ -1,0 +1,26 @@
+{
+    "name": "Natalie Davidson",
+    "age": 78,
+    "address": {
+        "street": "Shields Street",
+        "city": "Lake Meganshire",
+        "state": "Iowa",
+        "zip": "27119"
+    },
+    "contact": {
+        "phone": "802.509.4981x71133",
+        "servicePhone": "800089002"
+    },
+    "birthday": "1946-14-07",
+    "ip": "209.23.69.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Seem learn second family. Let girl important.\nExecutive evidence job woman machine national if. Computer ability available tax memory answer range relationship.",
+        "bio": "Say tree together sign single commercial. Force drop serve economic development dream. Stock them property someone hotel responsibility."
+    },
+    "apiKey": "6e361b5cd01177d8363bbfa88d475fbe6d5381c7367835152cba9229ed97d0b8",
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
