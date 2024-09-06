@@ -1,0 +1,26 @@
+{
+    "name": "Elizabeth Miller",
+    "age": 100,
+    "address": {
+        "street": "Banks Bypass",
+        "city": "Port Thomasland",
+        "state": "Indiana",
+        "zip": "11986"
+    },
+    "contact": {
+        "phone": "944-823-0129x5859",
+        "servicePhone": "800603349"
+    },
+    "birthday": "1924-18-12",
+    "ip": "145.113.173.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Plan leave political. Way hope under available stage before. Increase understand theory police although.\nItem firm generation difficult. Pattern among student day charge.",
+        "bio": "Few institution significant wait issue enter. Decide sometimes and girl include. Continue reduce bill order significant. Draw since item public anything although.\nFather growth reflect."
+    },
+    "apiKey": "e375b709d6c2b473c5087934b1511221e8aef0d74d17a32186c7e703074f0337",
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
