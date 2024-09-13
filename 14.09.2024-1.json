@@ -1,0 +1,26 @@
+{
+    "name": "Dr. Monica Alexander MD",
+    "age": 20,
+    "address": {
+        "street": "Kathleen Mission",
+        "city": "West Jenniferport",
+        "state": "Illinois",
+        "zip": "64438"
+    },
+    "contact": {
+        "phone": "344-239-7557x5333",
+        "servicePhone": "800861453"
+    },
+    "birthday": "2004-17-10",
+    "ip": "135.103.184.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Agent media out growth accept compare. Almost since upon could rich.\nRise smile program foot middle bar. Guy street watch world.\nThird upon start rock. If human air her.",
+        "bio": "Activity hear create phone likely remain edge.\nMessage various husband smile result. Name any its research never forward.\nLaugh employee allow let. Company occur possible month left south."
+    },
+    "apiKey": "770dc5b7cbac7ffe9a74b6839ea3fd4cb146e5d82ac61dc30b385e6a85727634",
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
