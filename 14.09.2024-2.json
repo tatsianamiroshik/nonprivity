@@ -1,0 +1,26 @@
+{
+    "name": "Michael Smith",
+    "age": 19,
+    "address": {
+        "street": "Christopher Loop",
+        "city": "Conwayfurt",
+        "state": "Ohio",
+        "zip": "78101"
+    },
+    "contact": {
+        "phone": "(934)509-8640",
+        "servicePhone": "800181595"
+    },
+    "birthday": "2005-07-03",
+    "ip": "55.205.34.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Music worker serious development most candidate.\nFar decade clear. Wife live head cold. Yourself meet any anyone.\nSix with decade television lot.",
+        "bio": "Letter property impact weight movie free.\nEducation pick over eight theory. Pick full action. Eat majority realize continue next this."
+    },
+    "apiKey": "dfd78bd8e4c508b15314889a9794a8fa1510d96fd9875f52096ef7117c588b30",
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
