@@ -1,0 +1,26 @@
+{
+    "name": "Walter Carroll",
+    "age": 84,
+    "address": {
+        "street": "Jonathon Common",
+        "city": "Ramosstad",
+        "state": "Arkansas",
+        "zip": "88386"
+    },
+    "contact": {
+        "phone": "659-524-1016x208",
+        "servicePhone": "800755036"
+    },
+    "birthday": "1940-19-06",
+    "ip": "87.204.5.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Mr painting bar home cell during. Free subject despite significant him give. Focus along always specific level far between case.",
+        "bio": "Indeed that house pay stuff.\nHeavy anyone send half sister develop. Condition speech wrong real item. Discussion reality wind three read inside my.\nSeek management she minute present."
+    },
+    "apiKey": "7ddcc35dcb75a9b2135eca68328f0d831d93305dc8e18692fd718a7d45b970cd",
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
