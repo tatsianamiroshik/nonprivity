@@ -1,0 +1,26 @@
+{
+    "name": "Mrs. Amy Shaw",
+    "age": 26,
+    "address": {
+        "street": "Jo Street",
+        "city": "Davischester",
+        "state": "New Mexico",
+        "zip": "67690"
+    },
+    "contact": {
+        "phone": "001-523-893-7823x14140",
+        "servicePhone": "800596969"
+    },
+    "birthday": "1998-02-01",
+    "ip": "125.36.8.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Music son teacher high market. Where manager speech nothing picture good.\nResponsibility answer much discuss conference although. Late seven newspaper fear group moment indicate.",
+        "bio": "Property role feel others defense available. Area different effort western with knowledge. Hope serve turn usually follow large."
+    },
+    "apiKey": "db2c676adbb3b073fe3bb4a8ac8db4546e13741260711381b358e8dc5d1cac08",
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
