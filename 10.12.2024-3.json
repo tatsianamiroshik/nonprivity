@@ -1,0 +1,26 @@
+{
+    "name": "Spencer Ruiz",
+    "age": 10,
+    "address": {
+        "street": "Guerra Keys",
+        "city": "Lake Samantha",
+        "state": "Oklahoma",
+        "zip": "93539"
+    },
+    "contact": {
+        "phone": "746-578-2458",
+        "servicePhone": "800699958"
+    },
+    "birthday": "2014-28-12",
+    "ip": "143.12.44.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Game pattern seven little put. Draw politics him discuss statement truth. Prove occur south study.",
+        "bio": "Plant fight north during agent long their. By month for ball day try control blue. Effect walk response way available. Democrat term guy religious political."
+    },
+    "apiKey": "f3a3688ddd395b133197912d0b9bb1a060ee93aa1dba33d6e2cf555f2afe74e3",
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
