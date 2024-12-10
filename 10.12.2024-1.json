@@ -1,26 +1,26 @@
 {
-    "name": "Heather Weber",
-    "age": 72,
+    "name": "Erik King",
+    "age": 70,
     "address": {
-        "street": "Huffman Center",
-        "city": "New Levi",
-        "state": "Alaska",
-        "zip": "00990"
+        "street": "Perkins Flats",
+        "city": "Lake Jasonstad",
+        "state": "Virginia",
+        "zip": "71282"
     },
     "contact": {
-        "phone": "513.743.6268x3606",
-        "servicePhone": "800205675"
+        "phone": "228.533.8126",
+        "servicePhone": "800834553"
     },
-    "birthday": "1952-19-12",
-    "ip": "188.251.217.44",
+    "birthday": "1954-16-12",
+    "ip": "28.92.143.13",
     "foo": "bar",
     "profile": {
-        "about": "Occur think letter prepare parent clear. Not place paper base. Enjoy travel bill defense laugh the.\nPoor lose whatever space.",
-        "bio": "Yes traditional its center. Cover short else direction someone reduce. Result assume traditional pattern right."
+        "about": "Fine simply decide manage now yet guess work. High popular positive until.\nPartner hit resource part particularly. Across accept under them. People part feel bank.",
+        "bio": "Sure us doctor available later glass health rate. Me vote raise discuss tax. Since rate authority."
     },
-    "apiKey": "2a53c68088686f227268f7c1d72aa1fbcd416c91852d9efc8d83004fb136fef5",
+    "apiKey": "9ce10494eabd7fdb47c926dccb15a9b95200efa5783ff6645d5e5674e66ca915",
     "currency": [
-        "BGN",
-        "Bulgarian lev"
+        "BRL",
+        "Brazilian real"
     ]
 }
