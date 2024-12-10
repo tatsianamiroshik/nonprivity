@@ -1,0 +1,26 @@
+{
+    "name": "Heather Weber",
+    "age": 72,
+    "address": {
+        "street": "Huffman Center",
+        "city": "New Levi",
+        "state": "Alaska",
+        "zip": "00990"
+    },
+    "contact": {
+        "phone": "513.743.6268x3606",
+        "servicePhone": "800205675"
+    },
+    "birthday": "1952-19-12",
+    "ip": "188.251.217.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Occur think letter prepare parent clear. Not place paper base. Enjoy travel bill defense laugh the.\nPoor lose whatever space.",
+        "bio": "Yes traditional its center. Cover short else direction someone reduce. Result assume traditional pattern right."
+    },
+    "apiKey": "2a53c68088686f227268f7c1d72aa1fbcd416c91852d9efc8d83004fb136fef5",
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
