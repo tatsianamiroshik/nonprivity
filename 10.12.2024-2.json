@@ -1,0 +1,26 @@
+{
+    "name": "Angelica Armstrong",
+    "age": 29,
+    "address": {
+        "street": "Johnson Mill",
+        "city": "Jeffreyfurt",
+        "state": "Louisiana",
+        "zip": "09554"
+    },
+    "contact": {
+        "phone": "902.967.8787x037",
+        "servicePhone": "800786945"
+    },
+    "birthday": "1995-01-08",
+    "ip": "77.244.190.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Total quickly entire image reduce.\nShort teacher prove owner. Management physical reach into trip eight quickly.",
+        "bio": "Full case she just question each lay. Consumer employee boy almost upon similar they. Crime compare audience.\nData positive one interview collection carry. Exist indicate society every add always."
+    },
+    "apiKey": "e8a7cb09bffe9395c40c8e797cae34ba57f6c7d5b8059eec8020240ecf624d05",
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
