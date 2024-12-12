@@ -1,0 +1,26 @@
+{
+    "name": "Ray Phillips",
+    "age": 8,
+    "address": {
+        "street": "Jeffrey Curve",
+        "city": "South Erika",
+        "state": "Nebraska",
+        "zip": "12587"
+    },
+    "contact": {
+        "phone": "+1-320-923-3520",
+        "servicePhone": "800860295"
+    },
+    "birthday": "2016-17-12",
+    "ip": "100.247.17.142",
+    "foo": "bar",
+    "profile": {
+        "about": "How indicate they involve operation. Tonight right whose including social summer person serious. Dog each talk simply.",
+        "bio": "Interesting show or. Gas month personal white suddenly need reveal market. Build threat approach while.\nMaybe politics break think simply happy animal. Phone deal camera land guess."
+    },
+    "apiKey": "239a10b03f8e1a545704ae1adfd03defb31fbb6b2c705b6130941887251466ea",
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
