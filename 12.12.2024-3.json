@@ -1,0 +1,26 @@
+{
+    "name": "Brianna Rosales",
+    "age": 47,
+    "address": {
+        "street": "Cain Inlet",
+        "city": "Martinstad",
+        "state": "Wyoming",
+        "zip": "39189"
+    },
+    "contact": {
+        "phone": "881.285.0109",
+        "servicePhone": "800838984"
+    },
+    "birthday": "1977-04-03",
+    "ip": "198.51.219.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Tax wall trouble pay. Child force may analysis partner phone time entire.\nServe network indicate threat toward range. Sister push young power effort back our. Nature behind risk trip.",
+        "bio": "Everything morning cultural friend former reflect break. Standard thank market term leave. Director writer environment tonight."
+    },
+    "apiKey": "2b912086b77bab05a89bec82580df39fa33ff1b51acd905abc56532a4248da1a",
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
