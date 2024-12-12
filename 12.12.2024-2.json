@@ -1,0 +1,26 @@
+{
+    "name": "Tristan Williams",
+    "age": 100,
+    "address": {
+        "street": "Thomas Motorway",
+        "city": "Jamesmouth",
+        "state": "Ohio",
+        "zip": "12316"
+    },
+    "contact": {
+        "phone": "667.245.7236",
+        "servicePhone": "800929538"
+    },
+    "birthday": "1924-30-08",
+    "ip": "70.147.190.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Rule evidence should point. Reveal once should seem.\nBit assume address over side. Course every seven capital central hear.",
+        "bio": "Stay pass rather avoid different. Cup drop north carry although enough age once. Know challenge sure involve cut until region."
+    },
+    "apiKey": "f58ba03b72202a7c5154dd670b4cebec54a5de6182eb908c9894199c1938579f",
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
