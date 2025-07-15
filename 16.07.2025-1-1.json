@@ -1,0 +1,25 @@
+{
+    "name": "Michael Banks",
+    "age": 11,
+    "address": {
+        "street": "Anthony Crescent",
+        "city": "Morganshire",
+        "state": "Iowa",
+        "zip": "25862"
+    },
+    "contact": {
+        "phone": "+1-770-791-9144x3473",
+        "servicePhone": "800058527"
+    },
+    "birthday": "2014-05-09",
+    "ip": "142.123.226.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Once phone color institution take vote.\nCold your short campaign grow condition. Time bit arrive agency force item should study.",
+        "bio": "Surface than newspaper put. Next Mr allow hand life open success.\nOfficer money late coach maintain hear though. Southern each develop month discuss continue."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
