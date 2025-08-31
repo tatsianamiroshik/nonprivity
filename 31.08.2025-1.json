@@ -1,0 +1,25 @@
+{
+    "name": "Eric Schmitt",
+    "age": 107,
+    "address": {
+        "street": "Conley Lock",
+        "city": "Hendrixbury",
+        "state": "Indiana",
+        "zip": "42458"
+    },
+    "contact": {
+        "phone": "867.511.3772x717",
+        "servicePhone": "800578551"
+    },
+    "birthday": "1918-10-06",
+    "ip": "121.105.209.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Lead coach contain day population stay. Win Mrs range degree.\nChurch fill leg sort race use plan. Life everybody exist blue so.\nMember since doctor. Under little arm likely course leave successful.",
+        "bio": "Try land relate. Red she college ever. She bed least Republican thought.\nReality suggest degree rather effect when the show. Action pay sign watch thus fear."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
